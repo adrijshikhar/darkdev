@@ -11,7 +11,7 @@ A dark vscode theme for the people who like it dark.
  7. Enjoy! 
 
 ## ScreenShot
-![DarkDev Theme](https://github.com/adrijshkhar/darkdev/raw/master/images/screenshot.png)
+![DarkDev Theme](https://github.com/adrijshikhar/darkdev/blob/master/images/screenshot.png)
 
 ### Issues
 Report to: [https://github.com/adrijshikhar/darkdev/issues](https://github.com/adrijshikhar/darkdev/issues)
