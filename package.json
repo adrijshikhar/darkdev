@@ -1,0 +1,38 @@
+{
+    "name": "darkdev",
+    "displayName": "DarkDev",
+    "description": "A dark theme for those who like it dark",
+    "icon": "images/icon.png",
+    "publisher": "adrijshikhar",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DarkDev",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkDev-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "darkdev",
+        "dark",
+        "material",
+        "theme",
+        "flat"
+    ],
+    "license": "MIT",
+    "maintainers": [
+        "Adrij Shikhar <adrijshikhar85@gmail.com>"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adrijshikhar/darkdev.git"
+    }
+}
