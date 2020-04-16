@@ -4,7 +4,7 @@
     "description": "A dark theme for those who like it dark",
     "icon": "images/icon.png",
     "publisher": "nemesis",
-    "version": "0.2.0",
+    "version": "0.3.1",
     "engines": {
         "vscode": "^1.37.0"
     },
