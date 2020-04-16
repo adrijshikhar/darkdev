@@ -11,10 +11,10 @@ A dark vscode theme for the people who like it dark.
  7. Enjoy! 
 
 ## ScreenShot
-![DarkDev Theme](https://github.com/adrijshikhar/darkdev/blob/master/images/screenshot.png)
+![DarkDev Theme](https://raw.githubusercontent.com/adrijshikhar/darkdev/master/images/screenshot.png)
 
 ## Link
-VS Code Marketplace: [DarkDev](https://raw.githubusercontent.com/adrijshikhar/darkdev/master/images/screenshot.png)
+VS Code Marketplace: [DarkDev](https://marketplace.visualstudio.com/items?itemName=nemesis.darkdev)
 
 ### Issues
 Report to: [https://github.com/adrijshikhar/darkdev/issues](https://github.com/adrijshikhar/darkdev/issues)
