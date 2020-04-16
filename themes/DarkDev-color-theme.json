@@ -4,6 +4,7 @@
 	"colors": {
 		"activityBar.activeBackground": "#ffffff2c",
 		"activityBar.foreground": "#ffffffbe",
+		"activityBar.background": "#07090F",
 		"activityBar.inactiveForeground": "#ffffff73",
 		"activityBarBadge.background": "#ffa000",
 		"activityBarBadge.foreground": "#07090f",
@@ -97,6 +98,7 @@
 		"tab.inactiveForeground": "#516399d8",
 		"textLink.foreground": "#ffa000",
 		"titleBar.activeForeground": "#f9f9ff",
+		"titleBar.activeBackground": "#131418",
 		"tree.indentGuidesStroke": "#516399",
 		"widget.shadow": "#01030b",
 		//"activityBar.activeBorder": "#ffffffbe",
@@ -383,7 +385,7 @@
 		//"textPreformat.foreground": "#d7ba7d",
 		//"textSeparator.foreground": "#ffffff2e",
 		//"titleBar.inactiveBackground": "#1602e099",
-		//"titleBar.inactiveForeground": "#f9f9ff99"
+		// "titleBar.inactiveForeground": "#f9f9ff99"
 	},
 	"tokenColors": [
 		{
