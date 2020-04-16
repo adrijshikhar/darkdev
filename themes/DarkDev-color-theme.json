@@ -3,7 +3,6 @@
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBackground": "#ffffff2c",
-		"activityBar.background": "#1002a0",
 		"activityBar.foreground": "#ffffffbe",
 		"activityBar.inactiveForeground": "#ffffff73",
 		"activityBarBadge.background": "#ffa000",
@@ -97,7 +96,6 @@
 		"tab.inactiveBackground": "#07090f",
 		"tab.inactiveForeground": "#516399d8",
 		"textLink.foreground": "#ffa000",
-		"titleBar.activeBackground": "#1602e0",
 		"titleBar.activeForeground": "#f9f9ff",
 		"tree.indentGuidesStroke": "#516399",
 		"widget.shadow": "#01030b",
