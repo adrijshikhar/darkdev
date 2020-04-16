@@ -6,7 +6,7 @@
     "publisher": "nemesis",
     "version": "0.1.0",
     "engines": {
-        "vscode": "^1.43.0"
+        "vscode": "^1.37.0"
     },
     "categories": [
         "Themes"
