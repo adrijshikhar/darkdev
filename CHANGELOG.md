@@ -1,8 +1,13 @@
 # Changelog
 
-## [Unreleased](https://github.com/adrijshikhar/darkdev/tree/HEAD)
+## [v4.0.0](https://github.com/adrijshikhar/darkdev/tree/v4.0.0) (2020-10-01)
 
-[Full Changelog](https://github.com/adrijshikhar/darkdev/compare/v0.3.3...HEAD)
+[Full Changelog](https://github.com/adrijshikhar/darkdev/compare/v0.3.3...v4.0.0)
+
+**Implemented enhancements:**
+
+- feat: Adds changelog gem and rake task [\#9](https://github.com/adrijshikhar/darkdev/pull/9) ([adrijshikhar](https://github.com/adrijshikhar))
+- feat: Color updates [\#8](https://github.com/adrijshikhar/darkdev/pull/8) ([adrijshikhar](https://github.com/adrijshikhar))
 
 **Merged pull requests:**
 
