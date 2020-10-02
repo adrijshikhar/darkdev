@@ -16,7 +16,12 @@
             {
                 "label": "DarkDev",
                 "uiTheme": "vs-dark",
-                "path": "./themes/DarkDev-color-theme.json"
+                "path": "./themes/normal.json"
+            },
+            {
+                "label": "DarkDev+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark.json"
             }
         ]
     },
